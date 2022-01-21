@@ -1,0 +1,19 @@
+.slideshow.slick-slider {
+  margin-bottom: 8vw;
+}
+
+.slideshow__picture {
+
+}
+
+.slideshow__image {
+
+}
+
+.slick-dots {
+  bottom: -50px;
+}
+
+.slick-dots li button:before {
+  font-size: 10px;
+}
